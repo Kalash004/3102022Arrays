@@ -1,0 +1,15 @@
+C:\Users\kalashnikov\source\repos\3102022Arrays\3102022Arrays\bin\Debug\net6.0\3102022Arrays.exe
+C:\Users\kalashnikov\source\repos\3102022Arrays\3102022Arrays\bin\Debug\net6.0\3102022Arrays.deps.json
+C:\Users\kalashnikov\source\repos\3102022Arrays\3102022Arrays\bin\Debug\net6.0\3102022Arrays.runtimeconfig.json
+C:\Users\kalashnikov\source\repos\3102022Arrays\3102022Arrays\bin\Debug\net6.0\3102022Arrays.dll
+C:\Users\kalashnikov\source\repos\3102022Arrays\3102022Arrays\bin\Debug\net6.0\3102022Arrays.pdb
+C:\Users\kalashnikov\source\repos\3102022Arrays\3102022Arrays\obj\Debug\net6.0\3102022Arrays.csproj.AssemblyReference.cache
+C:\Users\kalashnikov\source\repos\3102022Arrays\3102022Arrays\obj\Debug\net6.0\3102022Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalashnikov\source\repos\3102022Arrays\3102022Arrays\obj\Debug\net6.0\3102022Arrays.AssemblyInfoInputs.cache
+C:\Users\kalashnikov\source\repos\3102022Arrays\3102022Arrays\obj\Debug\net6.0\3102022Arrays.AssemblyInfo.cs
+C:\Users\kalashnikov\source\repos\3102022Arrays\3102022Arrays\obj\Debug\net6.0\3102022Arrays.csproj.CoreCompileInputs.cache
+C:\Users\kalashnikov\source\repos\3102022Arrays\3102022Arrays\obj\Debug\net6.0\3102022Arrays.dll
+C:\Users\kalashnikov\source\repos\3102022Arrays\3102022Arrays\obj\Debug\net6.0\refint\3102022Arrays.dll
+C:\Users\kalashnikov\source\repos\3102022Arrays\3102022Arrays\obj\Debug\net6.0\3102022Arrays.pdb
+C:\Users\kalashnikov\source\repos\3102022Arrays\3102022Arrays\obj\Debug\net6.0\3102022Arrays.genruntimeconfig.cache
+C:\Users\kalashnikov\source\repos\3102022Arrays\3102022Arrays\obj\Debug\net6.0\ref\3102022Arrays.dll
