@@ -10,7 +10,7 @@ namespace f
         static void Main(String[] args)
         {
 
-// main part task 1
+            // main part task 1
             List<int> list = new List<int>();
             GenerateNum(-5, 20, 20, list);
             list.ForEach(num => Console.WriteLine(num + ", "));
@@ -27,8 +27,10 @@ namespace f
             users_test.Sort();
             users_test.ForEach(user => Console.WriteLine(user.ToString()));
 
+            // 
+
             // methods part task 1
-            void GenerateNum(int start, int end, int amount, List<int> list)
+                     void GenerateNum(int start, int end, int amount, List<int> list)
             {
                 for (int i = 1; i < amount; i++)
                 {
@@ -87,4 +89,6 @@ namespace f
             throw new NotImplementedException();
         }
     }
+
+           
 }
